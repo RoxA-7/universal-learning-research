@@ -188,7 +188,6 @@ Zotero 是首选的文献管理工具。
 ```text
 ~/.claude/skills/universal-learning-research/SKILL.md
 ~/.agents/skills/universal-learning-research/SKILL.md
-C:\Users\<你>\.claude\skills\universal-learning-research\SKILL.md
 ```
 
 ### ⚖️ 设计原则
@@ -352,7 +351,6 @@ Common locations (requirements vary by client; check the platform documentation)
 ```text
 ~/.claude/skills/universal-learning-research/SKILL.md
 ~/.agents/skills/universal-learning-research/SKILL.md
-C:\Users\<you>\.claude\skills\universal-learning-research\SKILL.md
 ```
 
 ### ⚖️ Design Principles
