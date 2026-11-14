@@ -153,7 +153,7 @@ flowchart LR
 
 ### 📚 文献管理与 Zotero
 
-Zotero 是首选的文献管理工具，但本 Skill **不依赖** Obsidian、Archify 或任何特定平台。
+Zotero 是首选的文献管理工具。
 
 - 使用前先确认环境中真实可用的能力：检索条目、读取元数据与 PDF、读取标注与笔记等。
 - 只声称验证过可用的集成；没有 Zotero 连接时，改用导出数据、BibTeX 或用户提供的 PDF 工作。
@@ -325,7 +325,7 @@ Supported types include architecture, flowchart, sequence, data-flow, dependency
 
 ### 📚 Literature and Zotero
 
-Zotero is the preferred reference manager. The skill **does not require** Obsidian, Archify, or any specific platform.
+Zotero is the preferred reference manager.
 
 - Verify real access before claiming integration: library search, metadata, PDFs, annotations.
 - Without Zotero access, work from exported data, BibTeX, or user-provided PDFs.
