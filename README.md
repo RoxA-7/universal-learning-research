@@ -2,7 +2,6 @@
 
 # Universal Learning & Research Architect
 
-**一个把「学会了」当作交付标准的 AI Skill**<br>
 *通用学习 · 学术科研 · 知识工程 · 代码库分析*
 
 [![repo](https://img.shields.io/badge/GitHub-RoxA--7%2Funiversal--learning--research-181717?logo=github&style=flat-square)](https://github.com/RoxA-7/universal-learning-research)
