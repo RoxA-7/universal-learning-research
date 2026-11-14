@@ -20,15 +20,11 @@
 
 ### 🎯 这是什么
 
-**Universal Learning & Research Architect** 是一个面向 AI Agent 的通用学习与科研 Skill。它把「学习」「读文献」「分析代码」组织成可验证的工作流，帮助 Agent 判断一件事：你只是读过了，还是真的能解释、能应用、能迁移。
+**Universal Learning & Research Architect** 是一个给 AI Agent 用的学习与研究 Skill，主要处理三类任务：系统学一个主题、读论文和书籍、分析代码仓库。
 
-**适合谁**：正在系统学习某门学科、准备精读一篇论文，或需要接手一个陌生代码库的人。
+开始前，它会先了解你的基础和目的，再决定讲解深度或分析范围。涉及事实、引用和代码行为时会标明依据，无法确认的地方会直接说明。学到的内容通过提问和练习来检验，而不是看读了多少资料。
 
-它不追求产出更多摘要、笔记和图表，而是追求三件事：
-
-- **讲得对** —— 区分事实、来源结论、独立验证与推测，不编造引用、数据或代码行为。
-- **学得会** —— 先诊断基础和先修，再决定讲到多深；用提问、练习和复述检验理解。
-- **带得走** —— 把知识组织成可复用、可复习的结构，而不是一次性问答。
+它适合需要系统补一门学科、精读一篇论文，或接手一个陌生代码库的人。
 
 ### 🧭 四种工作模式
 
@@ -229,15 +225,11 @@ Zotero 是首选的文献管理工具。
 
 ### 🎯 What It Is
 
-**Universal Learning & Research Architect** is a general-purpose skill for AI agents that turns learning, literature research, and codebase analysis into verifiable workflows. It helps an agent distinguish whether you simply finished reading something or can actually explain, apply, and transfer it.
+**Universal Learning & Research Architect** is a skill for AI agents that covers three kinds of work: studying a topic systematically, reading papers and books, and analyzing codebases.
 
-**Who it is for:** anyone studying a subject systematically, reading a paper closely, or taking over an unfamiliar codebase.
+Before starting, it checks your background and goals, then decides how deep to go. It labels the basis for facts, citations, and code behavior, and says so when something cannot be confirmed. Understanding is tested with questions and exercises rather than by how much material was read.
 
-It does not optimize for the number of summaries, notes, or diagrams; it optimizes for three things:
-
-- **Accurate:** separates source claims, verified findings, and inference; never fabricates citations, results, or code behavior.
-- **Effective:** diagnoses prior knowledge first, then adapts depth; checks understanding with questions, exercises, and explanation.
-- **Durable:** organizes knowledge into reusable, reviewable structures instead of one-off answers.
+It is for people who need to work through a subject, read a paper closely, or take over an unfamiliar codebase.
 
 ### 🧭 Four Modes
 
